@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DModel-FHDLenticular-안승수-v1.1", "3DModel-FHDLenticular-안승수-v1.1\3DModel-FHDLenticular-안승수-v1.1.vcxproj", "{096A6D91-A2F2-4201-8E99-EF73E84E95F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096A6D91-A2F2-4201-8E99-EF73E84E95F8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{096A6D91-A2F2-4201-8E99-EF73E84E95F8}.Debug|Win32.Build.0 = Debug|Win32
+		{096A6D91-A2F2-4201-8E99-EF73E84E95F8}.Release|Win32.ActiveCfg = Release|Win32
+		{096A6D91-A2F2-4201-8E99-EF73E84E95F8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
